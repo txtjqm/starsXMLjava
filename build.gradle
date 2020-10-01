@@ -37,6 +37,15 @@ repositories {
     jcenter()
 }
 
+// custom
+test {
+    useJUnit()
+    maxHeapSize = '1G'
+    filter {
+        includeTestsMatching "*doReadXmlTest"
+    }
+}
+
 dependencies {
     // This dependency is exported to consumers, that is to say found on their compile classpath.
     api 'org.apache.commons:commons-math3:3.6.1'
