@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns="http://www.example.org"
+            targetNamespace="http://www.example.org"
+            elementFormDefault="qualified">
+  <!-- generated from xml that works ok with jackson xml -->
+  <xsd:element name="SkyobjColl">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="skyObjList">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="skyobj" maxOccurs="unbounded">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element name="name" type="xsd:string"/>
+                    <xsd:element name="magnitude" type="xsd:float"/>
+                    <xsd:element name="messier_num" type="xsd:string"/>
+                    <xsd:element name="ngc_num" type="xsd:string"/>
+                    <xsd:element name="messier_type" type="xsd:string"/>
+                    <xsd:element name="dist_kly" type="xsd:string"/>
+                    <xsd:element name="dist_ly" type="xsd:float"/>
+                    <xsd:element name="ra" type="xsd:string"/>
+                    <xsd:element name="decl" type="xsd:string"/>
+                    <xsd:element name="celestCordParsed">
+                      <xsd:complexType>
+                        <xsd:sequence>
+                          <xsd:element name="raHour" type="xsd:float"/>
+                          <xsd:element name="raMin" type="xsd:float"/>
+                          <xsd:element name="raSec" type="xsd:float"/>
+                          <xsd:element name="declDegr" type="xsd:float"/>
+                          <xsd:element name="declMin" type="xsd:float"/>
+                          <xsd:element name="declSec" type="xsd:float"/>
+                        </xsd:sequence>
+                      </xsd:complexType>
+                    </xsd:element>
+                  </xsd:sequence>
+                  <xsd:attribute name="skyType" type="skyTypeT"/>
+                </xsd:complexType>
+              </xsd:element>
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:simpleType name="skyTypeT">
+    <xsd:restriction base="xsd:string" >
+        <xsd:enumeration value="messier" />
+        <xsd:enumeration value="star" />
+    </xsd:restriction>
+  </xsd:simpleType>
+</xsd:schema>

@@ -1,0 +1,2098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SkyobjColl>
+<!-- <SkyobjColl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" -->
+<!--             xmlns="http://www.example.org" -->
+<!--             xsi:schemaLocation="http://www.example.org celCordStd2.xsd"> -->
+  <skyObjList>
+    <skyobj skyType="messier">
+      <name>Pleiades</name>
+      <magnitude>1.6</magnitude>
+      <messier_num>M45[61]</messier_num>
+      <ngc_num>–</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>0.39–0.46</dist_kly>
+      <dist_ly>425</dist_ly>
+      <ra>03h 47m 24s</ra>
+      <decl>+24° 07' 00"</decl>
+      <celestCordParsed>
+        <raHour>03</raHour>
+        <raMin>47</raMin>
+        <raSec>24</raSec>
+        <declDegr>24</declDegr>
+        <declMin>07</declMin>
+        <declSec>00</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Ptolemy Cluster</name>
+      <magnitude>3.3</magnitude>
+      <messier_num>M7[23]</messier_num>
+      <ngc_num>NGC 6475</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>0.65–1.31</dist_kly>
+      <dist_ly>980</dist_ly>
+      <ra>17h 53m 51.2s</ra>
+      <decl>-34° 47' 34"</decl>
+      <celestCordParsed>
+        <raHour>17</raHour>
+        <raMin>53</raMin>
+        <raSec>51.2</raSec>
+        <declDegr>-34</declDegr>
+        <declMin>47</declMin>
+        <declSec>34</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Andromeda Galaxy</name>
+      <magnitude>3.4</magnitude>
+      <messier_num>M31[47]</messier_num>
+      <ngc_num>NGC 224</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>2,430–2,650</dist_kly>
+      <dist_ly>2540000</dist_ly>
+      <ra>00h 42m 44.3s</ra>
+      <decl>+41° 16' 9"</decl>
+      <celestCordParsed>
+        <raHour>00</raHour>
+        <raMin>42</raMin>
+        <raSec>44.3</raSec>
+        <declDegr>41</declDegr>
+        <declMin>16</declMin>
+        <declSec>9</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Beehive Cluster</name>
+      <magnitude>3.7</magnitude>
+      <messier_num>M44[60]</messier_num>
+      <ngc_num>NGC 2632</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>0.577</dist_kly>
+      <dist_ly>577</dist_ly>
+      <ra>08h 40.4m</ra>
+      <decl>+19° 59'</decl>
+      <celestCordParsed>
+        <raHour>08</raHour>
+        <raMin>40.4</raMin>
+        <raSec>0</raSec>
+        <declDegr>19</declDegr>
+        <declMin>59</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Orion Nebula</name>
+      <magnitude>4</magnitude>
+      <messier_num>M42[58]</messier_num>
+      <ngc_num>NGC 1976</ngc_num>
+      <messier_type>H II region nebula</messier_type>
+      <dist_kly>1.324–1.364</dist_kly>
+      <dist_ly>1344</dist_ly>
+      <ra>05h 35m 17.3s</ra>
+      <decl>-05° 23' 28"</decl>
+      <celestCordParsed>
+        <raHour>05</raHour>
+        <raMin>35</raMin>
+        <raSec>17.3</raSec>
+        <declDegr>-05</declDegr>
+        <declMin>23</declMin>
+        <declSec>28</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Butterfly Cluster</name>
+      <magnitude>4.2</magnitude>
+      <messier_num>M6[22]</messier_num>
+      <ngc_num>NGC 6405</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>1.6</dist_kly>
+      <dist_ly>1600</dist_ly>
+      <ra>17h 40.1m</ra>
+      <decl>-32° 13'</decl>
+      <celestCordParsed>
+        <raHour>17</raHour>
+        <raMin>40.1</raMin>
+        <raSec>0</raSec>
+        <declDegr>-32</declDegr>
+        <declMin>13</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>4.2</magnitude>
+      <messier_num>M47[63]</messier_num>
+      <ngc_num>NGC 2422</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>1.6</dist_kly>
+      <dist_ly>1600</dist_ly>
+      <ra>07h 36.6m</ra>
+      <decl>-14° 30'</decl>
+      <celestCordParsed>
+        <raHour>07</raHour>
+        <raMin>36.6</raMin>
+        <raSec>0</raSec>
+        <declDegr>-14</declDegr>
+        <declMin>30</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>4.5</magnitude>
+      <messier_num>M41[57]</messier_num>
+      <ngc_num>NGC 2287</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>2.3</dist_kly>
+      <dist_ly>2300</dist_ly>
+      <ra>06h 46.0m</ra>
+      <decl>-20° 46'</decl>
+      <celestCordParsed>
+        <raHour>06</raHour>
+        <raMin>46.0</raMin>
+        <raSec>0</raSec>
+        <declDegr>-20</declDegr>
+        <declMin>46</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Sagittarius Star Cloud</name>
+      <magnitude>4.6</magnitude>
+      <messier_num>M24[40]</messier_num>
+      <ngc_num>IC 4715</ngc_num>
+      <messier_type>Milky Way star cloud</messier_type>
+      <dist_kly>10</dist_kly>
+      <dist_ly>NaN</dist_ly>
+      <ra>18h 17m</ra>
+      <decl>-18° 29'</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>17</raMin>
+        <raSec>0</raSec>
+        <declDegr>-18</declDegr>
+        <declMin>29</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>4.6</magnitude>
+      <messier_num>M25[41]</messier_num>
+      <ngc_num>IC 4725</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>2</dist_kly>
+      <dist_ly>2000</dist_ly>
+      <ra>18h 31.6m</ra>
+      <decl>-19° 15'</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>31.6</raMin>
+        <raSec>0</raSec>
+        <declDegr>-19</declDegr>
+        <declMin>15</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>5</magnitude>
+      <messier_num>M52[68]</messier_num>
+      <ngc_num>NGC 7654</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>5</dist_kly>
+      <dist_ly>5000</dist_ly>
+      <ra>23h 24.2m</ra>
+      <decl>+61° 35'</decl>
+      <celestCordParsed>
+        <raHour>23</raHour>
+        <raMin>24.2</raMin>
+        <raSec>0</raSec>
+        <declDegr>61</declDegr>
+        <declMin>35</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Sagittarius Cluster</name>
+      <magnitude>5.1</magnitude>
+      <messier_num>M22[38]</messier_num>
+      <ngc_num>NGC 6656</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>9.6–11.6</dist_kly>
+      <dist_ly>10600</dist_ly>
+      <ra>18h 36m 23.94s</ra>
+      <decl>-23° 54' 17.1"</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>36</raMin>
+        <raSec>23.94</raSec>
+        <declDegr>-23</declDegr>
+        <declMin>54</declMin>
+        <declSec>17.1</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>5.3</magnitude>
+      <messier_num>M35[51]</messier_num>
+      <ngc_num>NGC 2168</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>2.8</dist_kly>
+      <dist_ly>2800</dist_ly>
+      <ra>06h 09.1m</ra>
+      <decl>+24° 21'</decl>
+      <celestCordParsed>
+        <raHour>06</raHour>
+        <raMin>09.1</raMin>
+        <raSec>0</raSec>
+        <declDegr>24</declDegr>
+        <declMin>21</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>5.5</magnitude>
+      <messier_num>M34[50]</messier_num>
+      <ngc_num>NGC 1039</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>1.5</dist_kly>
+      <dist_ly>1500</dist_ly>
+      <ra>02h 42.1m</ra>
+      <decl>+42° 46'</decl>
+      <celestCordParsed>
+        <raHour>02</raHour>
+        <raMin>42.1</raMin>
+        <raSec>0</raSec>
+        <declDegr>42</declDegr>
+        <declMin>46</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>5.5</magnitude>
+      <messier_num>M39[55]</messier_num>
+      <ngc_num>NGC 7092</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>0.8244</dist_kly>
+      <dist_ly>824</dist_ly>
+      <ra>21h 31m 42s</ra>
+      <decl>+48° 26' 00"</decl>
+      <celestCordParsed>
+        <raHour>21</raHour>
+        <raMin>31</raMin>
+        <raSec>42</raSec>
+        <declDegr>48</declDegr>
+        <declMin>26</declMin>
+        <declSec>00</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>5.5</magnitude>
+      <messier_num>M48[64]</messier_num>
+      <ngc_num>NGC 2548</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>1.5</dist_kly>
+      <dist_ly>1500</dist_ly>
+      <ra>08h 13.7m</ra>
+      <decl>-05° 45'</decl>
+      <celestCordParsed>
+        <raHour>08</raHour>
+        <raMin>13.7</raMin>
+        <raSec>0</raSec>
+        <declDegr>-05</declDegr>
+        <declMin>45</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Triangulum Galaxy</name>
+      <magnitude>5.7</magnitude>
+      <messier_num>M33[49]</messier_num>
+      <ngc_num>NGC 598</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>2,380–3,070</dist_kly>
+      <dist_ly>2725000</dist_ly>
+      <ra>01h 33m 50.02s</ra>
+      <decl>+30° 39' 36.7"</decl>
+      <celestCordParsed>
+        <raHour>01</raHour>
+        <raMin>33</raMin>
+        <raSec>50.02</raSec>
+        <declDegr>30</declDegr>
+        <declMin>39</declMin>
+        <declSec>36.7</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Great Globular Cluster in Hercules</name>
+      <magnitude>5.8</magnitude>
+      <messier_num>M13[29]</messier_num>
+      <ngc_num>NGC 6205</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>22.2</dist_kly>
+      <dist_ly>22200</dist_ly>
+      <ra>16h 41m 41.24s</ra>
+      <decl>+36° 27' 35.5"</decl>
+      <celestCordParsed>
+        <raHour>16</raHour>
+        <raMin>41</raMin>
+        <raSec>41.24</raSec>
+        <declDegr>36</declDegr>
+        <declMin>27</declMin>
+        <declSec>35.5</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>5.9</magnitude>
+      <messier_num>M4[20]</messier_num>
+      <ngc_num>NGC 6121</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>7.2</dist_kly>
+      <dist_ly>7200</dist_ly>
+      <ra>16h 23m 35.22s</ra>
+      <decl>-26° 31' 32.7"</decl>
+      <celestCordParsed>
+        <raHour>16</raHour>
+        <raMin>23</raMin>
+        <raSec>35.22</raSec>
+        <declDegr>-26</declDegr>
+        <declMin>31</declMin>
+        <declSec>32.7</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>5.9</magnitude>
+      <messier_num>M50[66]</messier_num>
+      <ngc_num>NGC 2323</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>3.2</dist_kly>
+      <dist_ly>3200</dist_ly>
+      <ra>07h 03.2m</ra>
+      <decl>-08° 20'</decl>
+      <celestCordParsed>
+        <raHour>07</raHour>
+        <raMin>03.2</raMin>
+        <raSec>0</raSec>
+        <declDegr>-08</declDegr>
+        <declMin>20</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Lagoon Nebula</name>
+      <magnitude>6</magnitude>
+      <messier_num>M8[24]</messier_num>
+      <ngc_num>NGC 6523</ngc_num>
+      <messier_type>Nebula with cluster</messier_type>
+      <dist_kly>4.1</dist_kly>
+      <dist_ly>4100</dist_ly>
+      <ra>18h 03m 37s</ra>
+      <decl>-24° 23' 12"</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>03</raMin>
+        <raSec>37</raSec>
+        <declDegr>-24</declDegr>
+        <declMin>23</declMin>
+        <declSec>12</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Eagle Nebula</name>
+      <magnitude>6</magnitude>
+      <messier_num>M16[32]</messier_num>
+      <ngc_num>NGC 6611</ngc_num>
+      <messier_type>H II region nebula with cluster</messier_type>
+      <dist_kly>7</dist_kly>
+      <dist_ly>7000</dist_ly>
+      <ra>18h 18m 48s</ra>
+      <decl>-13° 49'</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>18</raMin>
+        <raSec>48</raSec>
+        <declDegr>-13</declDegr>
+        <declMin>49</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Omega, Swan, Horseshoe, or Lobster Nebula</name>
+      <magnitude>6</magnitude>
+      <messier_num>M17[33]</messier_num>
+      <ngc_num>NGC 6618</ngc_num>
+      <messier_type>H II region nebula with cluster</messier_type>
+      <dist_kly>5–6</dist_kly>
+      <dist_ly>5500</dist_ly>
+      <ra>18h 20m 26s</ra>
+      <decl>-16° 10' 36"</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>20</raMin>
+        <raSec>26</raSec>
+        <declDegr>-16</declDegr>
+        <declMin>10</declMin>
+        <declSec>36</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6</magnitude>
+      <messier_num>M93[109]</messier_num>
+      <ngc_num>NGC 2447</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>3.6</dist_kly>
+      <dist_ly>3600</dist_ly>
+      <ra>07h 44.6m</ra>
+      <decl>-23° 52'</decl>
+      <celestCordParsed>
+        <raHour>07</raHour>
+        <raMin>44.6</raMin>
+        <raSec>0</raSec>
+        <declDegr>-23</declDegr>
+        <declMin>52</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.1</magnitude>
+      <messier_num>M46[62]</messier_num>
+      <ngc_num>NGC 2437</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>5.4</dist_kly>
+      <dist_ly>5400</dist_ly>
+      <ra>07h 41.8m</ra>
+      <decl>-14° 49'</decl>
+      <celestCordParsed>
+        <raHour>07</raHour>
+        <raMin>41.8</raMin>
+        <raSec>0</raSec>
+        <declDegr>-14</declDegr>
+        <declMin>49</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.1</magnitude>
+      <messier_num>M67[83]</messier_num>
+      <ngc_num>NGC 2682</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>2.61–2.93</dist_kly>
+      <dist_ly>2770</dist_ly>
+      <ra>08h 51.3m</ra>
+      <decl>+11° 49'</decl>
+      <celestCordParsed>
+        <raHour>08</raHour>
+        <raMin>51.3</raMin>
+        <raSec>0</raSec>
+        <declDegr>11</declDegr>
+        <declMin>49</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.1</magnitude>
+      <messier_num>M71[87]</messier_num>
+      <ngc_num>NGC 6838</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>13</dist_kly>
+      <dist_ly>13000</dist_ly>
+      <ra>19h 53m 46.49s</ra>
+      <decl>+18° 46' 45.1"</decl>
+      <celestCordParsed>
+        <raHour>19</raHour>
+        <raMin>53</raMin>
+        <raSec>46.49</raSec>
+        <declDegr>18</declDegr>
+        <declMin>46</declMin>
+        <declSec>45.1</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.2</magnitude>
+      <messier_num>M3[19]</messier_num>
+      <ngc_num>NGC 5272</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>33.9</dist_kly>
+      <dist_ly>33900</dist_ly>
+      <ra>13h 42m 11.62s</ra>
+      <decl>+28° 22' 38.2"</decl>
+      <celestCordParsed>
+        <raHour>13</raHour>
+        <raMin>42</raMin>
+        <raSec>11.62</raSec>
+        <declDegr>28</declDegr>
+        <declMin>22</declMin>
+        <declSec>38.2</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.2</magnitude>
+      <messier_num>M15[31]</messier_num>
+      <ngc_num>NGC 7078</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>33</dist_kly>
+      <dist_ly>33000</dist_ly>
+      <ra>21h 29m 58.33s</ra>
+      <decl>+12° 10' 01.2"</decl>
+      <celestCordParsed>
+        <raHour>21</raHour>
+        <raMin>29</raMin>
+        <raSec>58.33</raSec>
+        <declDegr>12</declDegr>
+        <declMin>10</declMin>
+        <declSec>01.2</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.2</magnitude>
+      <messier_num>M37[53]</messier_num>
+      <ngc_num>NGC 2099</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>4.511</dist_kly>
+      <dist_ly>4511</dist_ly>
+      <ra>05h 52m 18s</ra>
+      <decl>+32° 33' 02"</decl>
+      <celestCordParsed>
+        <raHour>05</raHour>
+        <raMin>52</raMin>
+        <raSec>18</raSec>
+        <declDegr>32</declDegr>
+        <declMin>33</declMin>
+        <declSec>02</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.3</magnitude>
+      <messier_num>M2[18]</messier_num>
+      <ngc_num>NGC 7089</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>33</dist_kly>
+      <dist_ly>33000</dist_ly>
+      <ra>21h 33m 27.02s</ra>
+      <decl>-00° 49' 23.7"</decl>
+      <celestCordParsed>
+        <raHour>21</raHour>
+        <raMin>33</raMin>
+        <raSec>27.02</raSec>
+        <declDegr>-00</declDegr>
+        <declMin>49</declMin>
+        <declSec>23.7</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Wild Duck Cluster</name>
+      <magnitude>6.3</magnitude>
+      <messier_num>M11[27]</messier_num>
+      <ngc_num>NGC 6705</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>6.2</dist_kly>
+      <dist_ly>6200</dist_ly>
+      <ra>18h 51.1m</ra>
+      <decl>-06° 16'</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>51.1</raMin>
+        <raSec>0</raSec>
+        <declDegr>-06</declDegr>
+        <declMin>16</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Trifid Nebula</name>
+      <magnitude>6.3</magnitude>
+      <messier_num>M20[36]</messier_num>
+      <ngc_num>NGC 6514</ngc_num>
+      <messier_type>H II region nebula with cluster</messier_type>
+      <dist_kly>5.2</dist_kly>
+      <dist_ly>5200</dist_ly>
+      <ra>18h 02m 23s</ra>
+      <decl>-23° 01' 48"</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>02</raMin>
+        <raSec>23</raSec>
+        <declDegr>-23</declDegr>
+        <declMin>01</declMin>
+        <declSec>48</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.3</magnitude>
+      <messier_num>M36[52]</messier_num>
+      <ngc_num>NGC 1960</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>4.1</dist_kly>
+      <dist_ly>4100</dist_ly>
+      <ra>05h 36m 12s</ra>
+      <decl>+34° 08' 4"</decl>
+      <celestCordParsed>
+        <raHour>05</raHour>
+        <raMin>36</raMin>
+        <raSec>12</raSec>
+        <declDegr>34</declDegr>
+        <declMin>08</declMin>
+        <declSec>4</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.3</magnitude>
+      <messier_num>M92[108]</messier_num>
+      <ngc_num>NGC 6341</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>26.7</dist_kly>
+      <dist_ly>26700</dist_ly>
+      <ra>17h 17m 07.39s</ra>
+      <decl>+43° 08' 09.4"</decl>
+      <celestCordParsed>
+        <raHour>17</raHour>
+        <raMin>17</raMin>
+        <raSec>07.39</raSec>
+        <declDegr>43</declDegr>
+        <declMin>08</declMin>
+        <declSec>09.4</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.4</magnitude>
+      <messier_num>M10[26]</messier_num>
+      <ngc_num>NGC 6254</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>14.3</dist_kly>
+      <dist_ly>14300</dist_ly>
+      <ra>16h 57m 8.92s</ra>
+      <decl>-04° 05' 58.07"</decl>
+      <celestCordParsed>
+        <raHour>16</raHour>
+        <raMin>57</raMin>
+        <raSec>8.92</raSec>
+        <declDegr>-04</declDegr>
+        <declMin>05</declMin>
+        <declSec>58.07</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.5</magnitude>
+      <messier_num>M21[37]</messier_num>
+      <ngc_num>NGC 6531</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>4.25</dist_kly>
+      <dist_ly>4250</dist_ly>
+      <ra>18h 04.6m</ra>
+      <decl>-22° 30'</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>04.6</raMin>
+        <raSec>0</raSec>
+        <declDegr>-22</declDegr>
+        <declMin>30</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.7</magnitude>
+      <messier_num>M5[21]</messier_num>
+      <ngc_num>NGC 5904</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>24.5</dist_kly>
+      <dist_ly>24500</dist_ly>
+      <ra>15h 18m 33.22s</ra>
+      <decl>+02° 04' 51.7"</decl>
+      <celestCordParsed>
+        <raHour>15</raHour>
+        <raMin>18</raMin>
+        <raSec>33.22</raSec>
+        <declDegr>02</declDegr>
+        <declMin>04</declMin>
+        <declSec>51.7</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>6.9</magnitude>
+      <messier_num>M23[39]</messier_num>
+      <ngc_num>NGC 6494</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>2.15</dist_kly>
+      <dist_ly>2150</dist_ly>
+      <ra>17h 56.8m</ra>
+      <decl>-19° 01'</decl>
+      <celestCordParsed>
+        <raHour>17</raHour>
+        <raMin>56.8</raMin>
+        <raSec>0</raSec>
+        <declDegr>-19</declDegr>
+        <declMin>01</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Bode's Galaxy</name>
+      <magnitude>6.9</magnitude>
+      <messier_num>M81[97]</messier_num>
+      <ngc_num>NGC 3031</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>11,400–12,200</dist_kly>
+      <dist_ly>11800000</dist_ly>
+      <ra>09h 55m 33.2s</ra>
+      <decl>+69° 3' 55"</decl>
+      <celestCordParsed>
+        <raHour>09</raHour>
+        <raMin>55</raMin>
+        <raSec>33.2</raSec>
+        <declDegr>69</declDegr>
+        <declMin>3</declMin>
+        <declSec>55</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Cooling Tower</name>
+      <magnitude>7.1</magnitude>
+      <messier_num>M29[45]</messier_num>
+      <ngc_num>NGC 6913</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>7.2</dist_kly>
+      <dist_ly>7200</dist_ly>
+      <ra>20h 23m 56s</ra>
+      <decl>+38° 31' 24"</decl>
+      <celestCordParsed>
+        <raHour>20</raHour>
+        <raMin>23</raMin>
+        <raSec>56</raSec>
+        <declDegr>38</declDegr>
+        <declMin>31</declMin>
+        <declSec>24</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>7.4</magnitude>
+      <messier_num>M38[54]</messier_num>
+      <ngc_num>NGC 1912</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>4.2</dist_kly>
+      <dist_ly>4200</dist_ly>
+      <ra>05h 28m 42s</ra>
+      <decl>+35° 51' 18"</decl>
+      <celestCordParsed>
+        <raHour>05</raHour>
+        <raMin>28</raMin>
+        <raSec>42</raSec>
+        <declDegr>35</declDegr>
+        <declMin>51</declMin>
+        <declSec>18</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>7.4</magnitude>
+      <messier_num>M55[71]</messier_num>
+      <ngc_num>NGC 6809</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>17.6</dist_kly>
+      <dist_ly>17600</dist_ly>
+      <ra>19h 39m 59.71s</ra>
+      <decl>-30° 57' 53.1"</decl>
+      <celestCordParsed>
+        <raHour>19</raHour>
+        <raMin>39</raMin>
+        <raSec>59.71</raSec>
+        <declDegr>-30</declDegr>
+        <declMin>57</declMin>
+        <declSec>53.1</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>7.4</magnitude>
+      <messier_num>M62[78]</messier_num>
+      <ngc_num>NGC 6266</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>22.2</dist_kly>
+      <dist_ly>22200</dist_ly>
+      <ra>17h 01m 12.60s</ra>
+      <decl>-30° 06' 44.5"</decl>
+      <celestCordParsed>
+        <raHour>17</raHour>
+        <raMin>01</raMin>
+        <raSec>12.60</raSec>
+        <declDegr>-30</declDegr>
+        <declMin>06</declMin>
+        <declSec>44.5</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>7.4</magnitude>
+      <messier_num>M103[119]</messier_num>
+      <ngc_num>NGC 581</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>10</dist_kly>
+      <dist_ly>10000</dist_ly>
+      <ra>01h 33.2m</ra>
+      <decl>+60° 42'</decl>
+      <celestCordParsed>
+        <raHour>01</raHour>
+        <raMin>33.2</raMin>
+        <raSec>0</raSec>
+        <declDegr>60</declDegr>
+        <declMin>42</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>7.5</magnitude>
+      <messier_num>M18[34]</messier_num>
+      <ngc_num>NGC 6613</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>4.9</dist_kly>
+      <dist_ly>4900</dist_ly>
+      <ra>18h 19.9m</ra>
+      <decl>-17° 08'</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>19.9</raMin>
+        <raSec>0</raSec>
+        <declDegr>-17</declDegr>
+        <declMin>08</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>7.5</magnitude>
+      <messier_num>M19[35]</messier_num>
+      <ngc_num>NGC 6273</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>28.7</dist_kly>
+      <dist_ly>28700</dist_ly>
+      <ra>17h 02m 37.69s</ra>
+      <decl>-26° 16' 04.6"</decl>
+      <celestCordParsed>
+        <raHour>17</raHour>
+        <raMin>02</raMin>
+        <raSec>37.69</raSec>
+        <declDegr>-26</declDegr>
+        <declMin>16</declMin>
+        <declSec>04.6</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Dumbbell Nebula</name>
+      <magnitude>7.5</magnitude>
+      <messier_num>M27[43]</messier_num>
+      <ngc_num>NGC 6853</ngc_num>
+      <messier_type>Planetary nebula</messier_type>
+      <dist_kly>1.148–1.52</dist_kly>
+      <dist_ly>1334</dist_ly>
+      <ra>19h 59m 36.340s</ra>
+      <decl>+22° 43' 16.09"</decl>
+      <celestCordParsed>
+        <raHour>19</raHour>
+        <raMin>59</raMin>
+        <raSec>36.340</raSec>
+        <declDegr>22</declDegr>
+        <declMin>43</declMin>
+        <declSec>16.09</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Southern Pinwheel Galaxy</name>
+      <magnitude>7.5</magnitude>
+      <messier_num>M83[99]</messier_num>
+      <ngc_num>NGC 5236</ngc_num>
+      <messier_type>Barred Spiral galaxy</messier_type>
+      <dist_kly>14700</dist_kly>
+      <dist_ly>14700000</dist_ly>
+      <ra>13h 37m 00.9s</ra>
+      <decl>-29° 51' 57"</decl>
+      <celestCordParsed>
+        <raHour>13</raHour>
+        <raMin>37</raMin>
+        <raSec>00.9</raSec>
+        <declDegr>-29</declDegr>
+        <declMin>51</declMin>
+        <declSec>57</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>7.7</magnitude>
+      <messier_num>M12[28]</messier_num>
+      <ngc_num>NGC 6218</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>15.7</dist_kly>
+      <dist_ly>15700</dist_ly>
+      <ra>16h 47m 14.18s</ra>
+      <decl>-01° 56' 54.7"</decl>
+      <celestCordParsed>
+        <raHour>16</raHour>
+        <raMin>47</raMin>
+        <raSec>14.18</raSec>
+        <declDegr>-01</declDegr>
+        <declMin>56</declMin>
+        <declSec>54.7</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>7.7</magnitude>
+      <messier_num>M28[44]</messier_num>
+      <ngc_num>NGC 6626</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>17.9</dist_kly>
+      <dist_ly>17900</dist_ly>
+      <ra>18h 24m 32.89s</ra>
+      <decl>-24° 52' 11.4"</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>24</raMin>
+        <raSec>32.89</raSec>
+        <declDegr>-24</declDegr>
+        <declMin>52</declMin>
+        <declSec>11.4</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>7.7</magnitude>
+      <messier_num>M30[46]</messier_num>
+      <ngc_num>NGC 7099</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>27.8–31</dist_kly>
+      <dist_ly>29400</dist_ly>
+      <ra>21h 40m 22.12s</ra>
+      <decl>-23° 10' 47.5"</decl>
+      <celestCordParsed>
+        <raHour>21</raHour>
+        <raMin>40</raMin>
+        <raSec>22.12</raSec>
+        <declDegr>-23</declDegr>
+        <declMin>10</declMin>
+        <declSec>47.5</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>7.9</magnitude>
+      <messier_num>M80[96]</messier_num>
+      <ngc_num>NGC 6093</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>32.6</dist_kly>
+      <dist_ly>32600</dist_ly>
+      <ra>16h 17m 02.41s</ra>
+      <decl>-22° 58' 33.9"</decl>
+      <celestCordParsed>
+        <raHour>16</raHour>
+        <raMin>17</raMin>
+        <raSec>02.41</raSec>
+        <declDegr>-22</declDegr>
+        <declMin>58</declMin>
+        <declSec>33.9</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Pinwheel Galaxy</name>
+      <magnitude>7.9</magnitude>
+      <messier_num>M101[117]</messier_num>
+      <ngc_num>NGC 5457</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>19,100–22,400</dist_kly>
+      <dist_ly>20750000</dist_ly>
+      <ra>14h 03m 12.6s</ra>
+      <decl>+54° 20' 57"</decl>
+      <celestCordParsed>
+        <raHour>14</raHour>
+        <raMin>03</raMin>
+        <raSec>12.6</raSec>
+        <declDegr>54</declDegr>
+        <declMin>20</declMin>
+        <declSec>57</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>8</magnitude>
+      <messier_num>M26[42]</messier_num>
+      <ngc_num>NGC 6694</ngc_num>
+      <messier_type>Open cluster</messier_type>
+      <dist_kly>5</dist_kly>
+      <dist_ly>5000</dist_ly>
+      <ra>18h 45.2m</ra>
+      <decl>-09° 24'</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>45.2</raMin>
+        <raSec>0</raSec>
+        <declDegr>-09</declDegr>
+        <declMin>24</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>8.1</magnitude>
+      <messier_num>M32[48]</messier_num>
+      <ngc_num>NGC 221</ngc_num>
+      <messier_type>Dwarf elliptical galaxy</messier_type>
+      <dist_kly>2,410–2,570</dist_kly>
+      <dist_ly>2490000</dist_ly>
+      <ra>00h 42m 41.8s</ra>
+      <decl>+40° 51' 55"</decl>
+      <celestCordParsed>
+        <raHour>00</raHour>
+        <raMin>42</raMin>
+        <raSec>41.8</raSec>
+        <declDegr>40</declDegr>
+        <declMin>51</declMin>
+        <declSec>55</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>8.3</magnitude>
+      <messier_num>M14[30]</messier_num>
+      <ngc_num>NGC 6402</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>30.3</dist_kly>
+      <dist_ly>30300</dist_ly>
+      <ra>17h 37m 36.15s</ra>
+      <decl>-03° 14' 45.3"</decl>
+      <celestCordParsed>
+        <raHour>17</raHour>
+        <raMin>37</raMin>
+        <raSec>36.15</raSec>
+        <declDegr>-03</declDegr>
+        <declMin>14</declMin>
+        <declSec>45.3</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>8.3</magnitude>
+      <messier_num>M53[69]</messier_num>
+      <ngc_num>NGC 5024</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>58</dist_kly>
+      <dist_ly>58000</dist_ly>
+      <ra>13h 12m 55.25s</ra>
+      <decl>+18° 10' 05.4"</decl>
+      <celestCordParsed>
+        <raHour>13</raHour>
+        <raMin>12</raMin>
+        <raSec>55.25</raSec>
+        <declDegr>18</declDegr>
+        <declMin>10</declMin>
+        <declSec>05.4</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>8.3</magnitude>
+      <messier_num>M56[72]</messier_num>
+      <ngc_num>NGC 6779</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>32.9</dist_kly>
+      <dist_ly>32900</dist_ly>
+      <ra>19h 16m 35.57s</ra>
+      <decl>+30° 11' 00.5"</decl>
+      <celestCordParsed>
+        <raHour>19</raHour>
+        <raMin>16</raMin>
+        <raSec>35.57</raSec>
+        <declDegr>30</declDegr>
+        <declMin>11</declMin>
+        <declSec>00.5</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>8.3</magnitude>
+      <messier_num>M69[85]</messier_num>
+      <ngc_num>NGC 6637</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>29.7</dist_kly>
+      <dist_ly>29700</dist_ly>
+      <ra>18h 31m 23.10s</ra>
+      <decl>-32° 20' 53.1"</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>31</raMin>
+        <raSec>23.10</raSec>
+        <declDegr>-32</declDegr>
+        <declMin>20</declMin>
+        <declSec>53.1</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>8.3</magnitude>
+      <messier_num>M78[94]</messier_num>
+      <ngc_num>NGC 2068</ngc_num>
+      <messier_type>Diffuse nebula</messier_type>
+      <dist_kly>1.6</dist_kly>
+      <dist_ly>1600</dist_ly>
+      <ra>05h 46m 46.7s</ra>
+      <decl>+00° 00' 50"</decl>
+      <celestCordParsed>
+        <raHour>05</raHour>
+        <raMin>46</raMin>
+        <raSec>46.7</raSec>
+        <declDegr>00</declDegr>
+        <declMin>00</declMin>
+        <declSec>50</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Crab Nebula</name>
+      <magnitude>8.4</magnitude>
+      <messier_num>M1[17]</messier_num>
+      <ngc_num>NGC 1952</ngc_num>
+      <messier_type>Supernova remnant</messier_type>
+      <dist_kly>4.9–8.1</dist_kly>
+      <dist_ly>6500</dist_ly>
+      <ra>05h 34m 31.94s</ra>
+      <decl>+22° 00' 52.2"</decl>
+      <celestCordParsed>
+        <raHour>05</raHour>
+        <raMin>34</raMin>
+        <raSec>31.94</raSec>
+        <declDegr>22</declDegr>
+        <declMin>00</declMin>
+        <declSec>52.2</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>8.4</magnitude>
+      <messier_num>M9[25]</messier_num>
+      <ngc_num>NGC 6333</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>25.8</dist_kly>
+      <dist_ly>25800</dist_ly>
+      <ra>17h 19m 11.78s</ra>
+      <decl>-18° 30' 58.5"</decl>
+      <celestCordParsed>
+        <raHour>17</raHour>
+        <raMin>19</raMin>
+        <raSec>11.78</raSec>
+        <declDegr>-18</declDegr>
+        <declMin>30</declMin>
+        <declSec>58.5</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Whirlpool Galaxy</name>
+      <magnitude>8.4</magnitude>
+      <messier_num>M51[67]</messier_num>
+      <ngc_num>NGC 5194, NGC 5195</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>19,000–27,000</dist_kly>
+      <dist_ly>23000000</dist_ly>
+      <ra>13h 29m 52.7s</ra>
+      <decl>+47° 11' 43"</decl>
+      <celestCordParsed>
+        <raHour>13</raHour>
+        <raMin>29</raMin>
+        <raSec>52.7</raSec>
+        <declDegr>47</declDegr>
+        <declMin>11</declMin>
+        <declSec>43</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>8.4</magnitude>
+      <messier_num>M54[70]</messier_num>
+      <ngc_num>NGC 6715</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>87.4</dist_kly>
+      <dist_ly>87400</dist_ly>
+      <ra>18h 55m 03.33s</ra>
+      <decl>-30° 28' 47.5"</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>55</raMin>
+        <raSec>03.33</raSec>
+        <declDegr>-30</declDegr>
+        <declMin>28</declMin>
+        <declSec>47.5</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Cigar Galaxy</name>
+      <magnitude>8.4</magnitude>
+      <messier_num>M82[98]</messier_num>
+      <ngc_num>NGC 3034</ngc_num>
+      <messier_type>Starburst galaxy</messier_type>
+      <dist_kly>10,700–12,300</dist_kly>
+      <dist_ly>11500000</dist_ly>
+      <ra>09h 55m 52.2s</ra>
+      <decl>+69° 40' 47"</decl>
+      <celestCordParsed>
+        <raHour>09</raHour>
+        <raMin>55</raMin>
+        <raSec>52.2</raSec>
+        <declDegr>69</declDegr>
+        <declMin>40</declMin>
+        <declSec>47</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>8.6</magnitude>
+      <messier_num>M79[95]</messier_num>
+      <ngc_num>NGC 1904</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>41</dist_kly>
+      <dist_ly>41000</dist_ly>
+      <ra>05h 24m 10.59s</ra>
+      <decl>-24° 31' 27.3"</decl>
+      <celestCordParsed>
+        <raHour>05</raHour>
+        <raMin>24</raMin>
+        <raSec>10.59</raSec>
+        <declDegr>-24</declDegr>
+        <declMin>31</declMin>
+        <declSec>27.3</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Ring Nebula</name>
+      <magnitude>8.8</magnitude>
+      <messier_num>M57[73]</messier_num>
+      <ngc_num>NGC 6720</ngc_num>
+      <messier_type>Planetary nebula</messier_type>
+      <dist_kly>1.6–3.8</dist_kly>
+      <dist_ly>2700</dist_ly>
+      <ra>18h 53m 35.079s</ra>
+      <decl>+33° 01' 45.03"</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>53</raMin>
+        <raSec>35.079</raSec>
+        <declDegr>33</declDegr>
+        <declMin>01</declMin>
+        <declSec>45.03</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Leo Triplet</name>
+      <magnitude>8.9</magnitude>
+      <messier_num>M66[82]</messier_num>
+      <ngc_num>NGC 3627</ngc_num>
+      <messier_type>Barred Spiral galaxy</messier_type>
+      <dist_kly>31,000–41,000</dist_kly>
+      <dist_ly>36000000</dist_ly>
+      <ra>11h 20m 15.0s</ra>
+      <decl>+12° 59' 30"</decl>
+      <celestCordParsed>
+        <raHour>11</raHour>
+        <raMin>20</raMin>
+        <raSec>15.0</raSec>
+        <declDegr>12</declDegr>
+        <declMin>59</declMin>
+        <declSec>30</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>8.9</magnitude>
+      <messier_num>M107[123]</messier_num>
+      <ngc_num>NGC 6171</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>20.9</dist_kly>
+      <dist_ly>20900</dist_ly>
+      <ra>16h 32m 31.86s</ra>
+      <decl>-13° 03' 13.6"</decl>
+      <celestCordParsed>
+        <raHour>16</raHour>
+        <raMin>32</raMin>
+        <raSec>31.86</raSec>
+        <declDegr>-13</declDegr>
+        <declMin>03</declMin>
+        <declSec>13.6</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>De Mairan's Nebula</name>
+      <magnitude>9</magnitude>
+      <messier_num>M43[59]</messier_num>
+      <ngc_num>NGC 1982</ngc_num>
+      <messier_type>H II region nebula (part of the Orion Nebula)</messier_type>
+      <dist_kly>1.6</dist_kly>
+      <dist_ly>1600</dist_ly>
+      <ra>05h 35.6m</ra>
+      <decl>-05° 16'</decl>
+      <celestCordParsed>
+        <raHour>05</raHour>
+        <raMin>35.6</raMin>
+        <raSec>0</raSec>
+        <declDegr>-05</declDegr>
+        <declMin>16</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>9</magnitude>
+      <messier_num>M73[89]</messier_num>
+      <ngc_num>NGC 6994</ngc_num>
+      <messier_type>Asterism</messier_type>
+      <dist_kly>2.5</dist_kly>
+      <dist_ly>NaN</dist_ly>
+      <ra>20h 58m 54s</ra>
+      <decl>-12° 38'</decl>
+      <celestCordParsed>
+        <raHour>20</raHour>
+        <raMin>58</raMin>
+        <raSec>54</raSec>
+        <declDegr>-12</declDegr>
+        <declMin>38</declMin>
+        <declSec>0</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>9</magnitude>
+      <messier_num>M94[110]</messier_num>
+      <ngc_num>NGC 4736</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>14,700–17,300</dist_kly>
+      <dist_ly>16000000</dist_ly>
+      <ra>12h 50m 53.1s</ra>
+      <decl>+41° 07' 14"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>50</raMin>
+        <raSec>53.1</raSec>
+        <declDegr>41</declDegr>
+        <declMin>07</declMin>
+        <declSec>14</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Sombrero Galaxy</name>
+      <magnitude>9</magnitude>
+      <messier_num>M104[120]</messier_num>
+      <ngc_num>NGC 4594</ngc_num>
+      <messier_type>Lenticular galaxy</messier_type>
+      <dist_kly>28,700–30,900</dist_kly>
+      <dist_ly>29800000</dist_ly>
+      <ra>12h 39m 59.4s</ra>
+      <decl>-11° 37' 23"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>39</raMin>
+        <raSec>59.4</raSec>
+        <declDegr>-11</declDegr>
+        <declMin>37</declMin>
+        <declSec>23</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>9</magnitude>
+      <messier_num>M110[126]</messier_num>
+      <ngc_num>NGC 205</ngc_num>
+      <messier_type>Dwarf elliptical galaxy</messier_type>
+      <dist_kly>2,600–2,780</dist_kly>
+      <dist_ly>2690000</dist_ly>
+      <ra>00h 40m 22.1s</ra>
+      <decl>+41° 41' 07"</decl>
+      <celestCordParsed>
+        <raHour>00</raHour>
+        <raMin>40</raMin>
+        <raSec>22.1</raSec>
+        <declDegr>41</declDegr>
+        <declMin>41</declMin>
+        <declSec>07</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>9.1</magnitude>
+      <messier_num>M70[86]</messier_num>
+      <ngc_num>NGC 6681</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>29.4</dist_kly>
+      <dist_ly>29400</dist_ly>
+      <ra>18h 43m 12.76s</ra>
+      <decl>-32° 17' 31.6"</decl>
+      <celestCordParsed>
+        <raHour>18</raHour>
+        <raMin>43</raMin>
+        <raSec>12.76</raSec>
+        <declDegr>-32</declDegr>
+        <declMin>17</declMin>
+        <declSec>31.6</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>9.1</magnitude>
+      <messier_num>M106[122]</messier_num>
+      <ngc_num>NGC 4258</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>22,200–25,200</dist_kly>
+      <dist_ly>23700000</dist_ly>
+      <ra>12h 18m 57.5s</ra>
+      <decl>+47° 18' 14"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>18</raMin>
+        <raSec>57.5</raSec>
+        <declDegr>47</declDegr>
+        <declMin>18</declMin>
+        <declSec>14</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>9.2</magnitude>
+      <messier_num>M75[91]</messier_num>
+      <ngc_num>NGC 6864</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>67.5</dist_kly>
+      <dist_ly>67500</dist_ly>
+      <ra>20h 06m 04.75s</ra>
+      <decl>-21° 55' 16.2"</decl>
+      <celestCordParsed>
+        <raHour>20</raHour>
+        <raMin>06</raMin>
+        <raSec>04.75</raSec>
+        <declDegr>-21</declDegr>
+        <declMin>55</declMin>
+        <declSec>16.2</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Sunflower Galaxy</name>
+      <magnitude>9.3</magnitude>
+      <messier_num>M63[79]</messier_num>
+      <ngc_num>NGC 5055</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>37000</dist_kly>
+      <dist_ly>37000000</dist_ly>
+      <ra>13h 15m 49.3s</ra>
+      <decl>+42° 01' 45"</decl>
+      <celestCordParsed>
+        <raHour>13</raHour>
+        <raMin>15</raMin>
+        <raSec>49.3</raSec>
+        <declDegr>42</declDegr>
+        <declMin>01</declMin>
+        <declSec>45</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>9.4</magnitude>
+      <messier_num>M49[65]</messier_num>
+      <ngc_num>NGC 4472</ngc_num>
+      <messier_type>Elliptical galaxy</messier_type>
+      <dist_kly>53,600–58,200</dist_kly>
+      <dist_ly>55900000</dist_ly>
+      <ra>12h 29m 46.7s</ra>
+      <decl>+08° 00' 02"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>29</raMin>
+        <raSec>46.7</raSec>
+        <declDegr>08</declDegr>
+        <declMin>00</declMin>
+        <declSec>02</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Black Eye Galaxy</name>
+      <magnitude>9.4</magnitude>
+      <messier_num>M64[80]</messier_num>
+      <ngc_num>NGC 4826</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>22,000–26,000</dist_kly>
+      <dist_ly>24000000</dist_ly>
+      <ra>12h 56m 43.7s</ra>
+      <decl>+21° 40' 58"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>56</raMin>
+        <raSec>43.7</raSec>
+        <declDegr>21</declDegr>
+        <declMin>40</declMin>
+        <declSec>58</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>9.4</magnitude>
+      <messier_num>M72[88]</messier_num>
+      <ngc_num>NGC 6981</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>53.40–55.74</dist_kly>
+      <dist_ly>54570</dist_ly>
+      <ra>20h 53m 27.70s</ra>
+      <decl>-12° 32' 14.3"</decl>
+      <celestCordParsed>
+        <raHour>20</raHour>
+        <raMin>53</raMin>
+        <raSec>27.70</raSec>
+        <declDegr>-12</declDegr>
+        <declMin>32</declMin>
+        <declSec>14.3</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Cetus A</name>
+      <magnitude>9.6</magnitude>
+      <messier_num>M77[93]</messier_num>
+      <ngc_num>NGC 1068</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>47000</dist_kly>
+      <dist_ly>47000000</dist_ly>
+      <ra>02h 42m 40.7s</ra>
+      <decl>-00° 00' 48"</decl>
+      <celestCordParsed>
+        <raHour>02</raHour>
+        <raMin>42</raMin>
+        <raSec>40.7</raSec>
+        <declDegr>-00</declDegr>
+        <declMin>00</declMin>
+        <declSec>48</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Virgo A</name>
+      <magnitude>9.6</magnitude>
+      <messier_num>M87[103]</messier_num>
+      <ngc_num>NGC 4486</ngc_num>
+      <messier_type>Elliptical galaxy</messier_type>
+      <dist_kly>51,870–55,130</dist_kly>
+      <dist_ly>53500000</dist_ly>
+      <ra>12h 30m 49.42338s</ra>
+      <decl>+12° 23' 28.0439"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>30</raMin>
+        <raSec>49.42338</raSec>
+        <declDegr>12</declDegr>
+        <declMin>23</declMin>
+        <declSec>28.0439</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Winnecke 4</name>
+      <magnitude>9.7</magnitude>
+      <messier_num>M40[56]</messier_num>
+      <ngc_num>–</ngc_num>
+      <messier_type>Double star</messier_type>
+      <dist_kly>0.51</dist_kly>
+      <dist_ly>510</dist_ly>
+      <ra>12h 22m 12.5s</ra>
+      <decl>+58° 4' 59"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>22</raMin>
+        <raSec>12.5</raSec>
+        <declDegr>58</declDegr>
+        <declMin>4</declMin>
+        <declSec>59</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>9.7</magnitude>
+      <messier_num>M68[84]</messier_num>
+      <ngc_num>NGC 4590</ngc_num>
+      <messier_type>Globular cluster</messier_type>
+      <dist_kly>33.6</dist_kly>
+      <dist_ly>33600</dist_ly>
+      <ra>12h 39m 27.98s</ra>
+      <decl>-26° 44' 38.6"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>39</raMin>
+        <raSec>27.98</raSec>
+        <declDegr>-26</declDegr>
+        <declMin>44</declMin>
+        <declSec>38.6</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>9.8</magnitude>
+      <messier_num>M60[76]</messier_num>
+      <ngc_num>NGC 4649</ngc_num>
+      <messier_type>Elliptical galaxy</messier_type>
+      <dist_kly>51,000–59,000</dist_kly>
+      <dist_ly>55000000</dist_ly>
+      <ra>12h 43m 39.6s</ra>
+      <decl>+11° 33' 09"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>43</raMin>
+        <raSec>39.6</raSec>
+        <declDegr>11</declDegr>
+        <declMin>33</declMin>
+        <declSec>09</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>9.8</magnitude>
+      <messier_num>M86[102]</messier_num>
+      <ngc_num>NGC 4406</ngc_num>
+      <messier_type>Lenticular galaxy</messier_type>
+      <dist_kly>49,000–55,000</dist_kly>
+      <dist_ly>52000000</dist_ly>
+      <ra>12h 26m 11.7s</ra>
+      <decl>+12° 56' 46"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>26</raMin>
+        <raSec>11.7</raSec>
+        <declDegr>12</declDegr>
+        <declMin>56</declMin>
+        <declSec>46</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Owl Nebula</name>
+      <magnitude>9.9</magnitude>
+      <messier_num>M97[113]</messier_num>
+      <ngc_num>NGC 3587</ngc_num>
+      <messier_type>Planetary nebula</messier_type>
+      <dist_kly>2.03</dist_kly>
+      <dist_ly>2030</dist_ly>
+      <ra>11h 14m 47.734s</ra>
+      <decl>+55° 01' 08.50"</decl>
+      <celestCordParsed>
+        <raHour>11</raHour>
+        <raMin>14</raMin>
+        <raSec>47.734</raSec>
+        <declDegr>55</declDegr>
+        <declMin>01</declMin>
+        <declSec>08.50</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10</magnitude>
+      <messier_num>M74[90]</messier_num>
+      <ngc_num>NGC 628</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>24,000–36,000</dist_kly>
+      <dist_ly>30000000</dist_ly>
+      <ra>01h 36m 41.8s</ra>
+      <decl>+15° 47' 01"</decl>
+      <celestCordParsed>
+        <raHour>01</raHour>
+        <raMin>36</raMin>
+        <raSec>41.8</raSec>
+        <declDegr>15</declDegr>
+        <declMin>47</declMin>
+        <declSec>01</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10</magnitude>
+      <messier_num>M85[101]</messier_num>
+      <ngc_num>NGC 4382</ngc_num>
+      <messier_type>Lenticular galaxy</messier_type>
+      <dist_kly>56,000–64,000</dist_kly>
+      <dist_ly>60000000</dist_ly>
+      <ra>12h 25m 24.0s</ra>
+      <decl>+18° 11' 28"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>25</raMin>
+        <raSec>24.0</raSec>
+        <declDegr>18</declDegr>
+        <declMin>11</declMin>
+        <declSec>28</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Little Dumbbell Nebula</name>
+      <magnitude>10.1</magnitude>
+      <messier_num>M76[92]</messier_num>
+      <ngc_num>NGC 650, NGC 651</ngc_num>
+      <messier_type>Planetary nebula</messier_type>
+      <dist_kly>2.5</dist_kly>
+      <dist_ly>2500</dist_ly>
+      <ra>01h 42.4m</ra>
+      <decl>+51° 34' 31"</decl>
+      <celestCordParsed>
+        <raHour>01</raHour>
+        <raMin>42.4</raMin>
+        <raSec>0</raSec>
+        <declDegr>51</declDegr>
+        <declMin>34</declMin>
+        <declSec>31</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.1</magnitude>
+      <messier_num>M84[100]</messier_num>
+      <ngc_num>NGC 4374</ngc_num>
+      <messier_type>Lenticular galaxy</messier_type>
+      <dist_kly>57,000–63,000</dist_kly>
+      <dist_ly>60000000</dist_ly>
+      <ra>12h 25m 03.7s</ra>
+      <decl>+12° 53' 13"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>25</raMin>
+        <raSec>03.7</raSec>
+        <declDegr>12</declDegr>
+        <declMin>53</declMin>
+        <declSec>13</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.1</magnitude>
+      <messier_num>M96[112]</messier_num>
+      <ngc_num>NGC 3368</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>28,000–34,000</dist_kly>
+      <dist_ly>31000000</dist_ly>
+      <ra>10h 46m 45.7s</ra>
+      <decl>+11° 49' 12"</decl>
+      <celestCordParsed>
+        <raHour>10</raHour>
+        <raMin>46</raMin>
+        <raSec>45.7</raSec>
+        <declDegr>11</declDegr>
+        <declMin>49</declMin>
+        <declSec>12</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.1</magnitude>
+      <messier_num>M100[116]</messier_num>
+      <ngc_num>NGC 4321</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>55000</dist_kly>
+      <dist_ly>55000000</dist_ly>
+      <ra>12h 22m 54.9s</ra>
+      <decl>+15° 49' 21"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>22</raMin>
+        <raSec>54.9</raSec>
+        <declDegr>15</declDegr>
+        <declMin>49</declMin>
+        <declSec>21</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.2</magnitude>
+      <messier_num>M61[77]</messier_num>
+      <ngc_num>NGC 4303</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>50,200–54,800</dist_kly>
+      <dist_ly>52500000</dist_ly>
+      <ra>12h 21m 54.9s</ra>
+      <decl>+04° 28' 25"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>21</raMin>
+        <raSec>54.9</raSec>
+        <declDegr>04</declDegr>
+        <declMin>28</declMin>
+        <declSec>25</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.2</magnitude>
+      <messier_num>M105[121]</messier_num>
+      <ngc_num>NGC 3379</ngc_num>
+      <messier_type>Elliptical galaxy</messier_type>
+      <dist_kly>30,400–33,600</dist_kly>
+      <dist_ly>32000000</dist_ly>
+      <ra>10h 47m 49.6s</ra>
+      <decl>+12° 34' 54"</decl>
+      <celestCordParsed>
+        <raHour>10</raHour>
+        <raMin>47</raMin>
+        <raSec>49.6</raSec>
+        <declDegr>12</declDegr>
+        <declMin>34</declMin>
+        <declSec>54</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Leo Triplet</name>
+      <magnitude>10.3</magnitude>
+      <messier_num>M65[81]</messier_num>
+      <ngc_num>NGC 3623</ngc_num>
+      <messier_type>Barred Spiral galaxy</messier_type>
+      <dist_kly>41,000–42,000</dist_kly>
+      <dist_ly>41500000</dist_ly>
+      <ra>11h 18m 55.9s</ra>
+      <decl>+13° 05' 32"</decl>
+      <celestCordParsed>
+        <raHour>11</raHour>
+        <raMin>18</raMin>
+        <raSec>55.9</raSec>
+        <declDegr>13</declDegr>
+        <declMin>05</declMin>
+        <declSec>32</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.3</magnitude>
+      <messier_num>M90[106]</messier_num>
+      <ngc_num>NGC 4569</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>55,900–61,500</dist_kly>
+      <dist_ly>58700000</dist_ly>
+      <ra>12h 36m 49.8s</ra>
+      <decl>+13° 09' 46"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>36</raMin>
+        <raSec>49.8</raSec>
+        <declDegr>13</declDegr>
+        <declMin>09</declMin>
+        <declSec>46</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.4</magnitude>
+      <messier_num>M88[104]</messier_num>
+      <ngc_num>NGC 4501</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>39,000–56,000</dist_kly>
+      <dist_ly>47500000</dist_ly>
+      <ra>12h 31m 59.2s</ra>
+      <decl>+14° 25' 14"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>31</raMin>
+        <raSec>59.2</raSec>
+        <declDegr>14</declDegr>
+        <declMin>25</declMin>
+        <declSec>14</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.4</magnitude>
+      <messier_num>M99[115]</messier_num>
+      <ngc_num>NGC 4254</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>44,700–55,700</dist_kly>
+      <dist_ly>50200000</dist_ly>
+      <ra>12h 18m 49.6s</ra>
+      <decl>+14° 24' 59"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>18</raMin>
+        <raSec>49.6</raSec>
+        <declDegr>14</declDegr>
+        <declMin>24</declMin>
+        <declSec>59</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.5</magnitude>
+      <messier_num>M58[74]</messier_num>
+      <ngc_num>NGC 4579</ngc_num>
+      <messier_type>Barred Spiral galaxy</messier_type>
+      <dist_kly>63,000</dist_kly>
+      <dist_ly>NaN</dist_ly>
+      <ra>12h 37m 43.5s</ra>
+      <decl>+11° 49' 05"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>37</raMin>
+        <raSec>43.5</raSec>
+        <declDegr>11</declDegr>
+        <declMin>49</declMin>
+        <declSec>05</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.6</magnitude>
+      <messier_num>M59[75]</messier_num>
+      <ngc_num>NGC 4621</ngc_num>
+      <messier_type>Elliptical galaxy</messier_type>
+      <dist_kly>55,000–65,000</dist_kly>
+      <dist_ly>60000000</dist_ly>
+      <ra>12h 42m 02.3s</ra>
+      <decl>+11° 38' 49"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>42</raMin>
+        <raSec>02.3</raSec>
+        <declDegr>11</declDegr>
+        <declMin>38</declMin>
+        <declSec>49</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.6</magnitude>
+      <messier_num>M109[125]</messier_num>
+      <ngc_num>NGC 3992</ngc_num>
+      <messier_type>Barred Spiral galaxy</messier_type>
+      <dist_kly>59,500–107,500</dist_kly>
+      <dist_ly>83500000</dist_ly>
+      <ra>11h 57m 36.0s</ra>
+      <decl>+53° 22' 28"</decl>
+      <celestCordParsed>
+        <raHour>11</raHour>
+        <raMin>57</raMin>
+        <raSec>36.0</raSec>
+        <declDegr>53</declDegr>
+        <declMin>22</declMin>
+        <declSec>28</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.7</magnitude>
+      <messier_num>M89[105]</messier_num>
+      <ngc_num>NGC 4552</ngc_num>
+      <messier_type>Elliptical galaxy</messier_type>
+      <dist_kly>47,000–53,000</dist_kly>
+      <dist_ly>50000000</dist_ly>
+      <ra>12h 35m 39.8s</ra>
+      <decl>+12° 33' 23"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>35</raMin>
+        <raSec>39.8</raSec>
+        <declDegr>12</declDegr>
+        <declMin>33</declMin>
+        <declSec>23</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>Spindle Galaxy</name>
+      <magnitude>10.7</magnitude>
+      <messier_num>M102[118]</messier_num>
+      <ngc_num>NGC 5866</ngc_num>
+      <messier_type>Lenticular galaxy</messier_type>
+      <dist_kly>50000</dist_kly>
+      <dist_ly>50000000</dist_ly>
+      <ra>15h 06m 29.5s</ra>
+      <decl>+55° 45' 48"</decl>
+      <celestCordParsed>
+        <raHour>15</raHour>
+        <raMin>06</raMin>
+        <raSec>29.5</raSec>
+        <declDegr>55</declDegr>
+        <declMin>45</declMin>
+        <declSec>48</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>10.7</magnitude>
+      <messier_num>M108[124]</messier_num>
+      <ngc_num>NGC 3556</ngc_num>
+      <messier_type>Barred Spiral galaxy</messier_type>
+      <dist_kly>46000</dist_kly>
+      <dist_ly>46000000</dist_ly>
+      <ra>11h 11m 31.0s</ra>
+      <decl>+55° 40' 27"</decl>
+      <celestCordParsed>
+        <raHour>11</raHour>
+        <raMin>11</raMin>
+        <raSec>31.0</raSec>
+        <declDegr>55</declDegr>
+        <declMin>40</declMin>
+        <declSec>27</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>11</magnitude>
+      <messier_num>M91[107]</messier_num>
+      <ngc_num>NGC 4548</ngc_num>
+      <messier_type>Barred Spiral galaxy</messier_type>
+      <dist_kly>47,000–79,000</dist_kly>
+      <dist_ly>63000000</dist_ly>
+      <ra>12h 35m 26.4s</ra>
+      <decl>+14° 29' 47"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>35</raMin>
+        <raSec>26.4</raSec>
+        <declDegr>14</declDegr>
+        <declMin>29</declMin>
+        <declSec>47</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>11</magnitude>
+      <messier_num>M98[114]</messier_num>
+      <ngc_num>NGC 4192</ngc_num>
+      <messier_type>Spiral galaxy</messier_type>
+      <dist_kly>44400</dist_kly>
+      <dist_ly>44400000</dist_ly>
+      <ra>12h 13m 48.292s</ra>
+      <decl>+14° 54' 01.69"</decl>
+      <celestCordParsed>
+        <raHour>12</raHour>
+        <raMin>13</raMin>
+        <raSec>48.292</raSec>
+        <declDegr>14</declDegr>
+        <declMin>54</declMin>
+        <declSec>01.69</declSec>
+      </celestCordParsed>
+    </skyobj>
+    <skyobj skyType="messier">
+      <name>–</name>
+      <magnitude>11.4</magnitude>
+      <messier_num>M95[111]</messier_num>
+      <ngc_num>NGC 3351</ngc_num>
+      <messier_type>Barred Spiral galaxy</messier_type>
+      <dist_kly>31,200–34,000</dist_kly>
+      <dist_ly>32600000</dist_ly>
+      <ra>10h 43m 57.7s</ra>
+      <decl>+11° 42' 14"</decl>
+      <celestCordParsed>
+        <raHour>10</raHour>
+        <raMin>43</raMin>
+        <raSec>57.7</raSec>
+        <declDegr>11</declDegr>
+        <declMin>42</declMin>
+        <declSec>14</declSec>
+      </celestCordParsed>
+    </skyobj>
+  </skyObjList>
+</SkyobjColl>

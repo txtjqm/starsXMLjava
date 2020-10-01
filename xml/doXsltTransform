@@ -1,0 +1,7 @@
+
+
+# ~/work/jdk1.8.0_241/bin/java -cp ../saxon9he.jar net.sf.saxon.Transform -s:out.messier.xml -xsl:orderByName.xsl
+
+java -cp ../saxon9he.jar net.sf.saxon.Transform -s:outnewschema.stars.xml -xsl:sortByName.xsl
+
+

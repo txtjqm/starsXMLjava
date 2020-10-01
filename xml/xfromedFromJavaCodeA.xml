@@ -1,0 +1,574 @@
+<SkyobjColl>
+   <skyObjList>
+      <skyobj skyType="star">
+         <name>Achernar</name>
+         <magnitude>0.45</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>144</dist_ly>
+         <ra>01h 38m</ra>
+         <decl>-57.2°</decl>
+         <celestCordParsed>
+            <raHour>01</raHour>
+            <raMin>38</raMin>
+            <raSec>0</raSec>
+            <declDegr>-57.2</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Acrux</name>
+         <magnitude>0.77</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>320</dist_ly>
+         <ra>12h 27m</ra>
+         <decl>-63.1°</decl>
+         <celestCordParsed>
+            <raHour>12</raHour>
+            <raMin>27</raMin>
+            <raSec>0</raSec>
+            <declDegr>-63.1</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Adhara</name>
+         <magnitude>1.5</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>430</dist_ly>
+         <ra>06h 59m</ra>
+         <decl>-29.0°</decl>
+         <celestCordParsed>
+            <raHour>06</raHour>
+            <raMin>59</raMin>
+            <raSec>0</raSec>
+            <declDegr>-29.0</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Aldebaran</name>
+         <magnitude>0.87</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>65.1</dist_ly>
+         <ra>04h 36m</ra>
+         <decl>+16.5°</decl>
+         <celestCordParsed>
+            <raHour>04</raHour>
+            <raMin>36</raMin>
+            <raSec>0</raSec>
+            <declDegr>16.5</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Alnair</name>
+         <magnitude>1.73</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>101</dist_ly>
+         <ra>22h 08m</ra>
+         <decl>-47.0°</decl>
+         <celestCordParsed>
+            <raHour>22</raHour>
+            <raMin>08</raMin>
+            <raSec>0</raSec>
+            <declDegr>-47.0</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Alnilam</name>
+         <magnitude>1.69</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>1300</dist_ly>
+         <ra>05h 36m</ra>
+         <decl>-1.2°</decl>
+         <celestCordParsed>
+            <raHour>05</raHour>
+            <raMin>36</raMin>
+            <raSec>0</raSec>
+            <declDegr>-1.2</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Altair</name>
+         <magnitude>0.76</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>16.8</dist_ly>
+         <ra>19h 51m</ra>
+         <decl>+8.9°</decl>
+         <celestCordParsed>
+            <raHour>19</raHour>
+            <raMin>51</raMin>
+            <raSec>0</raSec>
+            <declDegr>8.9</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Antares</name>
+         <magnitude>1.06</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>605</dist_ly>
+         <ra>16h 29m</ra>
+         <decl>-26.4°</decl>
+         <celestCordParsed>
+            <raHour>16</raHour>
+            <raMin>29</raMin>
+            <raSec>0</raSec>
+            <declDegr>-26.4</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Arcturus</name>
+         <magnitude>-0.05</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>36.7</dist_ly>
+         <ra>14h 16m</ra>
+         <decl>+19.2°</decl>
+         <celestCordParsed>
+            <raHour>14</raHour>
+            <raMin>16</raMin>
+            <raSec>0</raSec>
+            <declDegr>19.2</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Bellatrix</name>
+         <magnitude>1.64</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>240</dist_ly>
+         <ra>05h 25m</ra>
+         <decl>+6.3°</decl>
+         <celestCordParsed>
+            <raHour>05</raHour>
+            <raMin>25</raMin>
+            <raSec>0</raSec>
+            <declDegr>6.3</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Betelgeuse</name>
+         <magnitude>0.45</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>430</dist_ly>
+         <ra>05h 55m</ra>
+         <decl>+7.4°</decl>
+         <celestCordParsed>
+            <raHour>05</raHour>
+            <raMin>55</raMin>
+            <raSec>0</raSec>
+            <declDegr>7.4</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Canopus</name>
+         <magnitude>-0.62</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>310</dist_ly>
+         <ra>06h 24m</ra>
+         <decl>-52.7°</decl>
+         <celestCordParsed>
+            <raHour>06</raHour>
+            <raMin>24</raMin>
+            <raSec>0</raSec>
+            <declDegr>-52.7</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Capella</name>
+         <magnitude>0.08</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>42.2</dist_ly>
+         <ra>05h 17m</ra>
+         <decl>+46.0°</decl>
+         <celestCordParsed>
+            <raHour>05</raHour>
+            <raMin>17</raMin>
+            <raSec>0</raSec>
+            <declDegr>46.0</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Castor</name>
+         <magnitude>1.58</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>51.5</dist_ly>
+         <ra>07h 35m</ra>
+         <decl>+31.9°</decl>
+         <celestCordParsed>
+            <raHour>07</raHour>
+            <raMin>35</raMin>
+            <raSec>0</raSec>
+            <declDegr>31.9</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Deneb</name>
+         <magnitude>1.25</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>3200</dist_ly>
+         <ra>20h 41m</ra>
+         <decl>+45.3°</decl>
+         <celestCordParsed>
+            <raHour>20</raHour>
+            <raMin>41</raMin>
+            <raSec>0</raSec>
+            <declDegr>45.3</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Elnath</name>
+         <magnitude>1.65</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>131</dist_ly>
+         <ra>05h 26m</ra>
+         <decl>+28.6°</decl>
+         <celestCordParsed>
+            <raHour>05</raHour>
+            <raMin>26</raMin>
+            <raSec>0</raSec>
+            <declDegr>28.6</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Fomalhaut</name>
+         <magnitude>1.17</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>25.1</dist_ly>
+         <ra>22h 58m</ra>
+         <decl>-29.6°</decl>
+         <celestCordParsed>
+            <raHour>22</raHour>
+            <raMin>58</raMin>
+            <raSec>0</raSec>
+            <declDegr>-29.6</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Gacrux</name>
+         <magnitude>1.59</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>87.9</dist_ly>
+         <ra>12h 31m</ra>
+         <decl>-57.1°</decl>
+         <celestCordParsed>
+            <raHour>12</raHour>
+            <raMin>31</raMin>
+            <raSec>0</raSec>
+            <declDegr>-57.1</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Hadar</name>
+         <magnitude>0.61</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>525</dist_ly>
+         <ra>14h 04m</ra>
+         <decl>-60.4°</decl>
+         <celestCordParsed>
+            <raHour>14</raHour>
+            <raMin>04</raMin>
+            <raSec>0</raSec>
+            <declDegr>-60.4</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Miaplacidus</name>
+         <magnitude>1.67</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>111</dist_ly>
+         <ra>09h 13m</ra>
+         <decl>-69.7°</decl>
+         <celestCordParsed>
+            <raHour>09</raHour>
+            <raMin>13</raMin>
+            <raSec>0</raSec>
+            <declDegr>-69.7</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Mimosa</name>
+         <magnitude>1.25</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>350</dist_ly>
+         <ra>12h 48m</ra>
+         <decl>-59.7°</decl>
+         <celestCordParsed>
+            <raHour>12</raHour>
+            <raMin>48</raMin>
+            <raSec>0</raSec>
+            <declDegr>-59.7</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Pollux</name>
+         <magnitude>1.16</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>33.7</dist_ly>
+         <ra>07h 45m</ra>
+         <decl>+28.0°</decl>
+         <celestCordParsed>
+            <raHour>07</raHour>
+            <raMin>45</raMin>
+            <raSec>0</raSec>
+            <declDegr>28.0</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Procyon</name>
+         <magnitude>0.4</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>11.4</dist_ly>
+         <ra>07h 39m</ra>
+         <decl>+5.2°</decl>
+         <celestCordParsed>
+            <raHour>07</raHour>
+            <raMin>39</raMin>
+            <raSec>0</raSec>
+            <declDegr>5.2</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Regulus</name>
+         <magnitude>1.36</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>77.5</dist_ly>
+         <ra>10h 08m</ra>
+         <decl>+12.0°</decl>
+         <celestCordParsed>
+            <raHour>10</raHour>
+            <raMin>08</raMin>
+            <raSec>0</raSec>
+            <declDegr>12.0</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Rigel</name>
+         <magnitude>0.18</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>770</dist_ly>
+         <ra>05h 15m</ra>
+         <decl>-8.2°</decl>
+         <celestCordParsed>
+            <raHour>05</raHour>
+            <raMin>15</raMin>
+            <raSec>0</raSec>
+            <declDegr>-8.2</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Rigil Kent.</name>
+         <magnitude>-0.28</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>4.4</dist_ly>
+         <ra>14h 40m</ra>
+         <decl>-60.8°</decl>
+         <celestCordParsed>
+            <raHour>14</raHour>
+            <raMin>40</raMin>
+            <raSec>0</raSec>
+            <declDegr>-60.8</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Shaula</name>
+         <magnitude>1.62</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>700</dist_ly>
+         <ra>17h 34m</ra>
+         <decl>-37.1°</decl>
+         <celestCordParsed>
+            <raHour>17</raHour>
+            <raMin>34</raMin>
+            <raSec>0</raSec>
+            <declDegr>-37.1</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Sirius</name>
+         <magnitude>-1.44</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>8.6</dist_ly>
+         <ra>06h 45m</ra>
+         <decl>-16.7°</decl>
+         <celestCordParsed>
+            <raHour>06</raHour>
+            <raMin>45</raMin>
+            <raSec>0</raSec>
+            <declDegr>-16.7</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Spica</name>
+         <magnitude>0.98</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>260</dist_ly>
+         <ra>13h 25m</ra>
+         <decl>-11.2°</decl>
+         <celestCordParsed>
+            <raHour>13</raHour>
+            <raMin>25</raMin>
+            <raSec>0</raSec>
+            <declDegr>-11.2</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+      <skyobj skyType="star">
+         <name>Vega</name>
+         <magnitude>0.03</magnitude>
+         <messier_num></messier_num>
+         <ngc_num></ngc_num>
+         <messier_type></messier_type>
+         <dist_kly></dist_kly>
+         <dist_ly>25.3</dist_ly>
+         <ra>18h 37m</ra>
+         <decl>+38.8°</decl>
+         <celestCordParsed>
+            <raHour>18</raHour>
+            <raMin>37</raMin>
+            <raSec>0</raSec>
+            <declDegr>38.8</declDegr>
+            <declMin>0</declMin>
+            <declSec>0</declSec>
+         </celestCordParsed>
+      </skyobj>
+   </skyObjList>
+</SkyobjColl>
