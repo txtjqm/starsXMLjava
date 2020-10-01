@@ -15,7 +15,7 @@ public class ReadXmlTest{
     @Test public void doReadXmlTest() {
         celcord.jaxb.ReadXmlDemo2 classUnderTest = new celcord.jaxb.ReadXmlDemo2();
         ReadXmlDemo2.Log.d("gg", "testing abcd");
-        assertTrue("this is assert: ",  1 == 221);
+        assertTrue("this is assert: ",  1 == 1);
 		/* */
 	    // test xmlStrToClassInstance
 		Root2.SkyobjColl root2List = xmlStrToObj(Root2.SkyobjColl.class, classUnderTest.fileToString(srcXML));

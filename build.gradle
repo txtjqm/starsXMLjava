@@ -22,6 +22,12 @@
    cmd //c "tree /F" build     [runs dos command from git-bash]
    then run with:
     java -jar build/libs/all-in-one-jar2.jar
+
+   git commands:
+   [created repo on github and pasted command lines into pc bash window]
+    git add .
+    git commit -m "2 commit"
+    git push -u origin main
 */
    
 /* The Java plugin adds Java compilation along with testing and bundling capabilities to a project. It serves as the basis for many of the other JVM language Gradle plugins.
@@ -38,6 +44,8 @@ repositories {
 }
 
 // custom
+// by adding this block it caused github action to run the test upon push
+// and show results in the web console
 test {
     useJUnit()
     maxHeapSize = '1G'
