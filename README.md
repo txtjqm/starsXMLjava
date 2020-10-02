@@ -1,18 +1,18 @@
-# starsXMLjava
-This project started as an intellij gradle project
-It shows how to use jackson xml to serialize/deserialize xml to java objects
-It uses gradle because the jackson library needs to be used, along with many other libraries it depends upon
-so instead to looking for dependencies and downloading them and hoping it works, its easier to use gradle, which
-finds out dependencies and gets them.
-This example was made using intellij to make a new gradle project.
-It also could have been made using this:
+# starsXMLjava  
+This project started as an intellij gradle project  
+It shows how to use jackson xml to serialize/deserialize xml to java objects  
+It uses gradle because the jackson library needs to be used, along with many other libraries it depends upon  
+so instead to looking for dependencies and downloading them and hoping it works, its easier to use gradle, which  
+finds out dependencies and gets them.  
+This example was made using intellij to make a new gradle project.  
+It also could have been made using this:  
 
 <code>
-  from https://guides.gradle.org/building-java-applications/
-   /c/local/gradle/gradle-6.6.1/bin/gradle wrapper
-   ./gradlew init
-          choose "application"... java ... groovy ...
-   cmd //c "tree /F" 
+  from https://guides.gradle.org/building-java-applications/  
+   /c/local/gradle/gradle-6.6.1/bin/gradle wrapper  
+   ./gradlew init  
+          choose "application"... java ... groovy ...  
+   cmd //c "tree /F"   
    history > HowToSetupGradle.txt
   ./gradlew build
   ./gradlew tasks
