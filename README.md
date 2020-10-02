@@ -1,4 +1,5 @@
 # starsXMLjava  
+[use 2 blanks at end of line for break]
 This project started as an intellij gradle project  
 It shows how to use jackson xml to serialize/deserialize xml to java objects  
 It uses gradle because the jackson library needs to be used, along with many other libraries it depends upon  
@@ -8,17 +9,17 @@ This example was made using intellij to make a new gradle project.
 It also could have been made using this:  
 
 <code>
-  from https://guides.gradle.org/building-java-applications/  
-   /c/local/gradle/gradle-6.6.1/bin/gradle wrapper  
-   ./gradlew init  
-          choose "application"... java ... groovy ...  
-   cmd //c "tree /F"   
-   history > HowToSetupGradle.txt
-  ./gradlew build
-  ./gradlew tasks
-  ./gradlew test
-  ./gradlew test  --tests AppTest
-   ./gradlew build -x test           .. run without tests
+  from https://guides.gradle.org/building-java-applications/ <br/> 
+   /c/local/gradle/gradle-6.6.1/bin/gradle wrapper  <br/> 
+   ./gradlew init  <br/> 
+          choose "application"... java ... groovy ...  <br/> 
+   cmd //c "tree /F"   <br/> 
+   history > HowToSetupGradle.txt<br/> 
+  ./gradlew build<br/> 
+  ./gradlew tasks<br/> 
+  ./gradlew test<br/> 
+  ./gradlew test  --tests AppTest<br/> 
+   ./gradlew build -x test           .. run without tests<br/> 
 </code>
 
 To do this these were added to the build.gradle:
