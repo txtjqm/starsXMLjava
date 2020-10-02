@@ -1,10 +1,9 @@
 # starsXMLjava  
 <b>This is a java gradle project using external xml libraries and junit tests.  
-It was expanded on to be in a github repo using a push-triggered action to recompile code and run junit tests.  
-This was done by having github action invoke the build.gradle, which has added tasks to run junit tests.  
-[use 2 blanks at end of line for break. preview with https://dillinger.io/ 
- https://guides.github.com/features/mastering-markdown/
- 3 backtics used for code block]  
+It was expanded on to be in a github repo using a push-triggered action to   
+ recompile code and run junit tests.  This was done by having github action invoke  
+ the build.gradle, which has added tasks to run junit tests.  
+  
 This project started as an intellij gradle project  
 It shows how to use jackson xml to serialize/deserialize xml to java objects.
 It uses gradle because the jackson library needs to be used, along with many other libraries it depends upon  
@@ -43,3 +42,6 @@ Then I went to github console for this project and:
 click actions at top, then choose new "gradle" action.
 This made a "gradle build" happen whenever a push is done to the repo, and alerts if it does not compile.
 
+*[use 2 blanks at end of line for break. preview with https://dillinger.io/   
+ https://guides.github.com/features/mastering-markdown/  
+ 3 backtics used for code block      https://www.markdownguide.org/basic-syntax/]  *
