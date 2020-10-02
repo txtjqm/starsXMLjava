@@ -36,11 +36,12 @@ This showed how to make an action using:
        Add a Dockerfile, Add an entrypoint script,Add an action.yml file,
        Start your workflow file,Run an action from your workflow file,
        Trigger the workflow,Incorporate the workflow.
-The result is a docker-powered action which results in message "Hello world my name is monday"
-This didn't show how to setup for java or for gradle or gradle tests.
-Then I went to github console for this project and:
-click actions at top, then choose new "gradle" action.
-This made a "gradle build" happen whenever a push is done to the repo, and alerts if it does not compile.
+The result is a docker-powered action which results in message "Hello world my name is monday"  
+This didn't show how to setup for java or for gradle or gradle tests.   
+  
+Then I got what I wanted by going to github console for this project and:  
+click actions at top, then choose new "gradle" action.  
+This made a "gradle build" happen whenever a push is done to the repo, and alerts if it does not compile.  
 
 *[use 2 blanks at end of line for break. preview with https://dillinger.io/   
  https://guides.github.com/features/mastering-markdown/  
