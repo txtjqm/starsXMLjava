@@ -8,7 +8,7 @@ finds out dependencies and gets them.
 This example was made using intellij to make a new gradle project.  
 It also could have been made using this:  
 
-<code>
+<code style="white-space: pre;">
   from https://guides.gradle.org/building-java-applications/ <br/> 
    /c/local/gradle/gradle-6.6.1/bin/gradle wrapper  <br/> 
    ./gradlew init  <br/> 
