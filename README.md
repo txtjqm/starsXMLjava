@@ -8,7 +8,7 @@ finds out dependencies and gets them.
 This example was made using intellij to make a new gradle project.  
 It also could have been made using this:  
 
-<code style="white-space: pre;">
+`
   from https://guides.gradle.org/building-java-applications/   
    /c/local/gradle/gradle-6.6.1/bin/gradle wrapper    
    ./gradlew init    
@@ -20,7 +20,7 @@ It also could have been made using this:
   ./gradlew test  
   ./gradlew test  --tests AppTest  
    ./gradlew build -x test           .. run without tests  
-</code>  
+`  
   
 To do this these were added to the build.gradle:  
 <br/><b>compile group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-xml', version: '2.11.0'  
