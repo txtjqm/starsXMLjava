@@ -44,4 +44,4 @@ This made a "gradle build" happen whenever a push is done to the repo, and alert
 
 *[use 2 blanks at end of line for break. preview with https://dillinger.io/   
  https://guides.github.com/features/mastering-markdown/  
- 3 backtics used for code block      https://www.markdownguide.org/basic-syntax/]  *
+ 3 backtics used for code block      https://www.markdownguide.org/basic-syntax/]*
