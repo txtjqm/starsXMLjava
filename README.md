@@ -1,8 +1,8 @@
 # starsXMLjava  
 <b>This is a java gradle project using external xml libraries and junit tests.  
 It was expanded on to be in a github repo using a push-triggered action to   
- recompile code and run junit tests.  This was done by having github action invoke  
- the build.gradle, which has added tasks to run junit tests.  
+ recompile code and run junit tests.</b>  
+ This was done by having github action invoke the build.gradle, which has added tasks to run junit tests.  
   
 This project started as an intellij gradle project  
 It shows how to use jackson xml to serialize/deserialize xml to java objects.
