@@ -1,6 +1,6 @@
 # starsXMLjava  
 <b>This is a java gradle project using external xml libraries and junit tests.  
-It was expanded on to be in a github repo using a push-triggered action to   
+It was expanded on to be in a github repo using a 'push'-triggered action to   
  recompile code and run junit tests.</b>  
  This was done by having github action invoke the build.gradle, which has added tasks to run junit tests.  
   
