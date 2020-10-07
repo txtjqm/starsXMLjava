@@ -1,0 +1,39 @@
+oct 2020
+git clone https://github.com/spring-guides/gs-rest-service.git
+.. then open build.gradle using intellij and the project works fine.
+dec 2019
+remove folder from github is difficult because it cant be done from the web console.
+Instead it must be cloned to a PC, folder removed, and committed+pushed back to github.
+---------------------
+how to remove folder from gitlhub using tortoisegit:
+in windows make a temp folder. Make another temp folder inside it called zz.
+right-click in blank area of file manager, tortoise git-clone repository
+Specify ROOT of the git repository, not subfolder.
+In zz, remove the folder to be deleted. Then right-click ->tortoisegit->commit. 
+Then tortoisgit->push to repository [may also be prompted after above commit]
+-------------------------
+how to remove folder from gitlhub using git for windows instrucions:
+in windows make a temp folder. Make another temp folder inside it called zz.
+In file manager, go there and right-click -> git gui
+in git gui: clone repository to zz folder. Specify ROOT of the git repository, not subfolder.
+In zz, remove the folder to be deleted. Then push changes to repository (need to "stage changed" first. the changes are the removed files) 
+------------------------
+cd agittest/
+git init
+git add *
+git commit
+git diff
+  vi zzzzz
+git commit *
+git rm -f powerShellNotes.txt 
+-- now use github web console to create new repository.
+     the web page shows the following 2 lines to copy/paste.
+-- this connects git to this "remote repository"
+git remote add origin https://github.com/txtjqm/cmdLineGitTest.git
+-- push the files to "remote repository"
+git push -u origin master
+-- edit a file
+git commit
+git push -u origin master
+
+git remote -v
