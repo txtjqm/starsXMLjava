@@ -52,6 +52,8 @@ test {
     filter {
         includeTestsMatching "*doReadXmlTest"
     }
+    // log to stdout instead of/in addition? to html in reports folder. Needed for github actions where cant get to html.
+    testLogging.showStandardStreams = true
 }
 
 // this copies all jar files imported by gradle into folder -for offline.
