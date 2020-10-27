@@ -12,11 +12,14 @@
  * User Manual available at https://docs.gradle.org/6.0/userguide/java_library_plugin.html
  */
 
-/* custom  sept 2020
-   to run on pc, install java jdk, remove all gradle stuff except build.gradle using
+/* custom  oct 2020
+   to run after cloning from github, install java jdk, remove all gradle stuff except build.gradle using
     rm -r gradle gradlew    , then 
    download gradle jar file and run (git-bash example here)
    /c/local/gradle/gradle-6.6.1/bin/gradle wrapper
+   NOTE on ubuntu got error about could not determine jdk version on ubuntu, 
+      probably because gradle was old version. To fix this use
+      gradle wrapper --gradle-version 6.7 --distribution-type all
    then run ./gradlew customFatJar
    and see result with 
    cmd //c "tree /F" build     [runs dos command from git-bash]
